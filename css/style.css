@@ -1,0 +1,198 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body,html{
+	font-family:Roboto,sans-serif,arial;
+	background:black in white;
+}
+.width-100{
+	width: 100%;
+    float: left;
+	
+}
+.container{
+    margin: 0px auto;	
+}
+.top-header{
+	background: #2196f3;
+    padding: 5px 0px;
+    border-bottom: 1px solid #3131315e;
+}
+.news-list{
+	background: green;
+    color: yellow;
+    padding: 5px;
+    font-size: 18px;
+}
+.headquote{
+	font-size: 19px;
+    color: brown;
+    width: 80%;
+    font-style: italic;
+}
+.header-menu{
+	position: relative;
+    box-shadow: 0px 2px 5px 0px #00000036;
+}
+.logo{
+	width: fit-content;
+    float: left;
+}
+.main-menu{
+list-style: none;
+    float: right;
+    margin-top: 130px;
+}
+.main-menu a{
+font-weight: 500;
+    color: black;
+	background-color:orange;
+    font-size: 20px;
+    text-decoration: none;
+    font-style: oblique;	
+}
+.main-menu li{
+	float: left;
+    padding: 6px 7px;
+}
+.slider-width{
+	width: 100%;
+    height: auto;
+}
+.margin-top-50{
+	margin-top: 50px;
+}
+.width-33{
+	width: 50%;
+    float: left;
+}
+.latest-news{
+	margin-left: 10px;
+    margin-right: 10px;
+    background: green;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.heading-sect{
+	width: 100%;
+    float: left;
+    border-bottom: 5px solid red;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 10px;
+    padding-top: 2px;
+    padding-left: 5px;
+    border: 5px solid blueviolet;
+    background: yellow;
+    color: red;
+    font-style: italic;
+}
+.head-title{
+	margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+    padding-bottom: 5px;
+	align-content:center;
+}
+.latest-news-ul{
+	padding: 0px;
+    list-style: none;
+    line-height: 40px;
+}
+.teacher-list{
+	margin-left: 10px;
+    margin-right: 10px;
+    background: green;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.information-teacher-list{
+	padding: 0px;
+    list-style: none;
+}
+.information-teacher-list dd{
+	padding: 8px;
+  text-align: center;
+  font-size: small;
+  color: white;
+}
+.notice-board{
+	margin-left: 10px;
+    margin-right: 10px;
+    background: green;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.notice-board-list{
+	padding: 0px;
+  list-style: arabic-indic;
+  line-height: 40px;
+  align-content: center;
+  color: pink;
+}
+.notice-board-list li{
+	width: 100%;
+  float: left;
+  margin-bottom: 15px;
+}
+.about-us{
+	margin-left: 10px;
+    margin-right: 10px;
+    background: brown;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.gov-sec-style{
+	margin-bottom: 30px;
+  border-bottom: 4px solid blue;
+  padding-bottom: 10px;
+}
+.governor-name{
+	font-size: 16px;
+  color: orange;
+  font-weight: bold;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+.governor-destination{
+	font-size: 14px;
+  color: red;
+  padding-left: 20px;
+  margin-top: 6px;
+}
+.governor-img{
+	width: auto;
+}
+.width-40{
+	width:40%;
+	float:left;
+}
+.width-60{
+	width:60%;
+	float:left;
+}
+
+
+
+.section-content{
+	margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.top-header{
+	background: white;
+    padding: 5px 0px;
+    border-bottom: 1px solid #3131315e;
+}
+.section-body{
+	padding: 0px;
+  list-style: arabic-indic;
+  line-height: 40px;
+  align-content: center;
+  color: brown;
+}
